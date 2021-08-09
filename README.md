@@ -1,5 +1,31 @@
-### Hi there 👋
+### Hey 👋 I'm Wilkinson
 
+[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilkinson-tavares/)](https://www.linkedin.com/in/wilkinson-tavares/)
+
+### Senior Software Engineer @ Cornershop by Uber
+
+<a href="/gif/hacker-cat-DkY6g2" title="Hacker cat"><img src="https://i.makeagif.com/media/7-06-2015/DkY6g2.gif" alt="Hacker cat" width="150" height="150" /></div>
+
+### Tech
+<div style="display: inline_block"><br>
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" />
+</div>
+
+---
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkmoura&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+🌱 I’m currently learning Go.
+
+⚡ I love to travel, get to know different cultures and people.
+ 
 <!--
 **wilkmoura/wilkmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
