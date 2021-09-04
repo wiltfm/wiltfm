@@ -4,14 +4,14 @@
 
 ### Senior Software Engineer @ Cornershop by Uber
 
-<a href="/gif/hacker-cat-DkY6g2" title="Hacker cat"><img src="https://i.makeagif.com/media/7-06-2015/DkY6g2.gif" alt="Hacker cat" width="150" height="150" /></div>
+<img src="https://giffiles.alphacoders.com/208/208746.gif" alt="Hacker cat" width="150" height="150" />
 
 ### Tech
 <div style="display: inline_block"><br>
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <a href="https://www.python.org/"><img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></a>
+  <a href="https://en.cppreference.com/w/"><img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a>
+  <a href="https://www.postgresql.org/"><img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" /></a>
 </div>
 
 ---
