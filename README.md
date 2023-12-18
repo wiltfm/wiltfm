@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilkinson-tavares/)](https://www.linkedin.com/in/wilkinson-tavares/)
 
-### Software Engineer @ Origin Financial
+### Software Engineer @ Bit Complete
 <img src="https://giffiles.alphacoders.com/208/208746.gif" alt="Hacker cat" width="150" height="150" />
 
 ### Tech
